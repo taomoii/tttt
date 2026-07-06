@@ -896,6 +896,12 @@ body.fixedBody {
   }
 }
 
+@media screen and (max-width: 767px) {
+  .tit-type5 .sub-text {
+    font-size: 16px;
+  }
+
+}
 .text {
   margin-bottom: 15px;
   font-size: 18px;
@@ -3280,7 +3286,7 @@ code {
 }
 
 .banner {
-  height: 900px;
+  height: 650px;
   width: 100%;
   overflow: hidden;
   background-image: url(../images/banner_bg.svg);
@@ -3292,7 +3298,7 @@ code {
 .banner-container {
   margin: 0 auto;
   width: 100%;
-  max-width: 1220px; 
+  max-width: 1080px; 
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -3359,14 +3365,14 @@ code {
 }
 .banner-tit-1 {
   color: #FFF;
-  font-size: 48px;
+  font-size: 40px;
   line-height: 1.2;
   display: inline-block;
   font-weight: 700;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 .banner-tit-1 span {
-  font-size: 106px;
+  font-size: 75px;
 }
 .banner-kv img {
   position: absolute;
@@ -3388,11 +3394,11 @@ code {
   height: auto;
 }
 .banner-content {
-  width: 40%;
+  width: 35%;
   flex-shrink: 0;
   z-index: 2;
   text-align: center;
-  padding-top: 140px;
+  padding: 75px 0 0 30px;
 }
 .banner-scrollIcon {
   position: absolute;
