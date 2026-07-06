@@ -3372,7 +3372,7 @@ code {
   margin-bottom: 20px;
 }
 .banner-tit-1 span {
-  font-size: 75px;
+  font-size: 65px;
 }
 .banner-kv img {
   position: absolute;
@@ -3394,11 +3394,11 @@ code {
   height: auto;
 }
 .banner-content {
-  width: 35%;
+  width: 33%;
   flex-shrink: 0;
   z-index: 2;
   text-align: center;
-  padding: 75px 0 0 30px;
+  padding: 105px 0 0 50px;
 }
 .banner-scrollIcon {
   position: absolute;
