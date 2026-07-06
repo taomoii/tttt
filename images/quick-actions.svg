@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_1" data-name="圖層_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60 60">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        fill: #04327a;
+      }
+
+      .st2 {
+        font-family: SourceHanSansTC-Regular-B5pc-H, 'Source Han Sans TC';
+        font-size: 15px;
+      }
+    </style>
+  </defs>
+  <circle class="st1" cx="29.46" cy="18.04" r="18"/>
+  <text class="st2" transform="translate(-.54 58.84)"><tspan x="0" y="0">常用功能</tspan></text>
+  <path class="st0" d="M29.41,10.7l1.72,3.73.35.76.83.1,4.08.49-3.01,2.79-.62.57.16.82.8,4.03-3.59-2-.73-.41-.73.41-3.59,2,.8-4.03.16-.82-.62-.57-3.01-2.79,4.08-.49.83-.1.35-.76,1.72-3.73M29.41,8.98c-.49,0-.98.26-1.22.78l-1.87,4.04-4.42.53c-1.14.14-1.59,1.54-.75,2.32l3.26,3.02-.86,4.36c-.17.88.52,1.61,1.32,1.61.22,0,.44-.05.65-.17l3.88-2.17,3.88,2.17c.21.12.44.17.65.17.79,0,1.49-.72,1.32-1.61l-.86-4.36,3.26-3.02c.84-.78.38-2.18-.75-2.32l-4.42-.53-1.87-4.04c-.24-.52-.73-.78-1.22-.78h0Z"/>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_1" data-name="圖層_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60 60">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+
+      .st1 {
+        fill: #ff623e;
+      }
+
+      .st2 {
+        font-family: SourceHanSansTC-Regular-B5pc-H, 'Source Han Sans TC';
+        font-size: 15px;
+      }
+    </style>
+  </defs>
+  <text class="st2" transform="translate(15.15 58.76)"><tspan x="0" y="0">交易</tspan></text>
+  <circle class="st1" cx="30" cy="18.05" r="18"/>
+  <path class="st0" d="M38.33,18.05h-3.33l-2.5,7.5-5-15-2.5,7.5h-3.33"/>
+</svg>
